@@ -63,9 +63,6 @@ motto:  "работает — не трогай, не работает — пе�
 <a href="https://github.com/Marsikcat/Steam-card-idle">
   <img src="https://readme-stats-anuraghazra.vercel.app/api/pin/?username=Marsikcat&repo=Steam-card-idle&hide_border=true&theme=tokyonight&title_color=a277ff&icon_color=a277ff" />
 </a>
-<a href="https://github.com/Marsikcat/kaka_dlya_PI">
-  <img src="https://readme-stats-anuraghazra.vercel.app/api/pin/?username=Marsikcat&repo=kaka_dlya_PI&hide_border=true&theme=tokyonight&title_color=a277ff&icon_color=a277ff" />
-</a>
 
 </div>
 
@@ -74,7 +71,6 @@ motto:  "работает — не трогай, не работает — пе�
 | 🔐 [**olcvpn**](https://github.com/Marsikcat/olcvpn) | Десктопный клиент olcRTC для Windows: импорт подписки, SOCKS5 и системный VPN через TUN | Go |
 | 🤖 [**MarinVpnBot**](https://github.com/Marsikcat/MarinVpnBot) | Телеграм-бот продажи VPN-подписок: тарифы, триал, оплата (Stars / СБП / ЮKassa / CryptoBot), автовыдача и продление ключей через панель, рефералка, промокоды, админка | Python · aiogram 3 · SQLAlchemy 2 |
 | 🎮 [**Steam-card-idle**](https://github.com/Marsikcat/Steam-card-idle) | Фарм коллекционных карточек Steam: тёмный GUI, авто-стратегия идла, разбор страницы значков с самопроверкой | Python |
-| 📐 [**kaka_dlya_PI**](https://github.com/Marsikcat/kaka_dlya_PI) | Настольный решатель линейных и квадратных уравнений на Flet: валидация ввода, дискриминант, юнит-тесты | Python · Flet |
 
 ---
 
