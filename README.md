@@ -3,7 +3,7 @@
   Тема виджетов: tokyonight, акцент a277ff.
   Альтернативы темы: dracula, midnight-purple, synthwave, catppuccin_mocha, rose_pine.
 
-  Про хосты виджетов (проверено 2026-09-08):
+  Про хосты виджетов (перепроверено 2026-09-30):
   - карточки статистики берутся с readme-stats-anuraghazra.vercel.app, потому что
     основной github-readme-stats.vercel.app сейчас отдаёт DEPLOYMENT_PAUSED.
     Если его поднимут — достаточно заменить домен обратно.
@@ -51,15 +51,18 @@ motto:  "работает — не трогай, не работает — пе�
 
 <div align="center">
 
+<a href="https://github.com/Marsikcat/screen-share">
+  <img src="https://readme-stats-anuraghazra.vercel.app/api/pin/?username=Marsikcat&repo=screen-share&hide_border=true&theme=tokyonight&title_color=a277ff&icon_color=a277ff" />
+</a>
 <a href="https://github.com/Marsikcat/olcvpn">
   <img src="https://readme-stats-anuraghazra.vercel.app/api/pin/?username=Marsikcat&repo=olcvpn&hide_border=true&theme=tokyonight&title_color=a277ff&icon_color=a277ff" />
-</a>
-<a href="https://github.com/Marsikcat/MarinVpnBot">
-  <img src="https://readme-stats-anuraghazra.vercel.app/api/pin/?username=Marsikcat&repo=MarinVpnBot&hide_border=true&theme=tokyonight&title_color=a277ff&icon_color=a277ff" />
 </a>
 
 <br/>
 
+<a href="https://github.com/Marsikcat/MarinVpnBot">
+  <img src="https://readme-stats-anuraghazra.vercel.app/api/pin/?username=Marsikcat&repo=MarinVpnBot&hide_border=true&theme=tokyonight&title_color=a277ff&icon_color=a277ff" />
+</a>
 <a href="https://github.com/Marsikcat/Steam-card-idle">
   <img src="https://readme-stats-anuraghazra.vercel.app/api/pin/?username=Marsikcat&repo=Steam-card-idle&hide_border=true&theme=tokyonight&title_color=a277ff&icon_color=a277ff" />
 </a>
@@ -68,6 +71,7 @@ motto:  "работает — не трогай, не работает — пе�
 
 | Проект | Что делает | Стек |
 |---|---|---|
+| 🖥️ [**screen-share / MarinCall**](https://github.com/Marsikcat/screen-share) | P2P-аналог Discord без серверов: текстовые и голосовые каналы, демонстрация экрана до 1440p60 (DXGI + NVENC), звук приложений без своего голоса, связь по LAN, Radmin VPN или интернету через iroh, досинхронизация истории между участниками | Python · iroh · FFmpeg · Opus |
 | 🔐 [**olcvpn**](https://github.com/Marsikcat/olcvpn) | Десктопный клиент olcRTC для Windows: импорт подписки, SOCKS5 и системный VPN через TUN | Go |
 | 🤖 [**MarinVpnBot**](https://github.com/Marsikcat/MarinVpnBot) | Телеграм-бот продажи VPN-подписок: тарифы, триал, оплата (Stars / СБП / ЮKassa / CryptoBot), автовыдача и продление ключей через панель, рефералка, промокоды, админка | Python · aiogram 3 · SQLAlchemy 2 |
 | 🎮 [**Steam-card-idle**](https://github.com/Marsikcat/Steam-card-idle) | Фарм коллекционных карточек Steam: тёмный GUI, авто-стратегия идла, разбор страницы значков с самопроверкой | Python |
